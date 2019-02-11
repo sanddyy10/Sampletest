@@ -1,6 +1,3 @@
-# Sampletest
-MATH GAME
-
 Steps to run the game:
 Pull Maths_prob_new folder from the git.
 Place the folder in the xampp folder → htdocs.
